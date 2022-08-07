@@ -7114,6 +7114,9 @@ button.bg-dark:focus {
   .float-sm-none {
     float: none !important;
   }
+  .carousel-item > img{
+    width: 50%;
+  }
 }
 
 @media (min-width: 768px) {
